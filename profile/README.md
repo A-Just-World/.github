@@ -14,22 +14,6 @@ This GitHub organization serves as the centralized, secure code repository for A
 
 ---
 
-## 💻 What We Build
-Our technical operations focus on creating fast, accessible, and scalable digital experiences to support our advocacy. Our core tech stack and development environments typically include:
-* **Frontend & Full Stack:** React, Next.js, and TypeScript for dynamic, high-performance web applications.
-* **CMS & No-Code:** WordPress and Webflow for rapid content deployment and accessible management.
-* **Infrastructure:** Automated CI/CD pipelines, secure version control, and scalable cloud hosting.
-
----
-
-## 🤝 Contributing
-We regularly collaborate with passionate technical contractors, open-source contributors, and rotating volunteers. 
-
-* **Internal Team:** Please refer to the `Developers` team board for current sprint tasks and active issues.
-* **Branching & Pull Requests:** All repositories require strict code reviews. Please create a feature branch and submit a PR for approval by a repository maintainer before merging into `main`.
-
----
-
 ## 📫 Get in Touch
 If you are interested in partnering with us, exploring our programs, or discussing technical infrastructure, we would love to hear from you.
 
